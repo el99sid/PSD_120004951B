@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_missing_permissions">Cannot start without required permissions</string>
+
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_searching">Searching</string>
+    <string name="status_connected">Connected</string>
+
+    <string name="connecting">Connecting...</string>
+    <string name="host_chat_room">Host Chat Room</string>
+    <string name="app_name">ChatClose</string>
+    <string name="submit">Submit</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="username">Username</string>
+
+    <string name="become_a_host">Create New Chat</string>
+    <string name="become_a_client">Find Chat</string>
+</resources>
